@@ -1,0 +1,15 @@
+body {
+  background: darkslateblue;
+}
+
+#app {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: whitesmoke;
+}
+
+.svg-container {
+  border: 2px solid navajowhite;
+}
